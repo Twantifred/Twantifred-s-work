@@ -1,0 +1,5 @@
+top=top
+clk BTNC
+din   (SW7, SW6, SW5, SW4, SW3, SW2, SW1, SW0)
+shamt (SW15, SW14)
+data  (LD7, LD6, LD5, LD4, LD3, LD2, LD1, LD0)

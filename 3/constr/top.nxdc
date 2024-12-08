@@ -1,0 +1,5 @@
+top=top
+A (SW3,SW2,SW1,SW0)
+B (SW7,SW6,SW5,SW4)
+ALUctr (SW10,SW9,SW8)
+ALUout (LD3,LD2,LD1,LD0)
