@@ -61,7 +61,7 @@ VL_INLINE_OPT void Vtop___024root___nba_sequent__TOP__0(Vtop___024root* vlSelf) 
         __Vdly__top__DOT__my_keyboard__DOT__w_ptr = 0U;
         __Vdly__top__DOT__my_keyboard__DOT__r_ptr = 0U;
         __Vdly__top__DOT__overflow = 0U;
-        __Vdly__top__DOT__ready = 1U;
+        __Vdly__top__DOT__ready = 0U;
         __Vdly__top__DOT__key_count = 0U;
     } else {
         if (vlSelf->top__DOT__ready) {
