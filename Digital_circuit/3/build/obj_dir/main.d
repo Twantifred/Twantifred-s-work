@@ -1,4 +1,5 @@
-main.o: /home/twantifred/Twantifred_/3/csrc/main.cpp \
+main.o: \
+ /home/twantifred/Twantifred_XXX/Twantifred-s-work/Digital_circuit/3/csrc/main.cpp \
  /home/twantifred/ysyx-workbench/nvboard/usr/include/nvboard.h \
  /home/twantifred/ysyx-workbench/nvboard/usr/include/pins.h Vtop.h \
  /usr/local/share/verilator/include/verilated.h \

@@ -1,4 +1,5 @@
-auto_bind.o: /home/twantifred/Twantifred_/3/build/auto_bind.cpp \
+auto_bind.o: \
+ /home/twantifred/Twantifred_XXX/Twantifred-s-work/Digital_circuit/3/build/auto_bind.cpp \
  /home/twantifred/ysyx-workbench/nvboard/usr/include/nvboard.h \
  /home/twantifred/ysyx-workbench/nvboard/usr/include/pins.h Vtop.h \
  /usr/local/share/verilator/include/verilated.h \
